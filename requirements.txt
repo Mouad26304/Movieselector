@@ -1,0 +1,11 @@
+gym
+torch
+torchvision
+stable-baselines3
+decord
+longvu
+numpy
+opencv-python
+scikit-learn
+matplotlib
+tqdm
